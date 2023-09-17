@@ -11,4 +11,16 @@ console.log(typeof value)
     3)undefined =>NaN
     4) NaN => number
 
+/*
+ #Type conversion into bool(Boolean) outputs :-
+    1) ""(empty string)=>false
+    2) "Full string" =>true
+    3) NaN => false
+    4) undefined => false
+
 */
+
+console.log("\n \n")
+let b =''
+let boll=Boolean(b)
+console.log(boll)
