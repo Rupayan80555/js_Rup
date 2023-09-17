@@ -1,0 +1,6 @@
+console.log('the output of 1+"2" =>   ',1+"2")
+console.log('The output of "1"+2 =>   ',"1"+2)
+console.log('The output of "1"+2+2 =>   ',"1"+2+2)
+console.log('The output of "1"+"2"+2 =>   ',"1"+"2"+2)
+console.log('The output of 1+"2"+2 =>   ',1+"2"+2)
+console.log('The output of 1+2+"2" =>   ',1+2+"2")
